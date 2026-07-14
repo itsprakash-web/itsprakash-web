@@ -6,125 +6,67 @@
 
 ### 💻 Aspiring Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;DSA+Learner;Frontend+Web+Developer;React+Learner;Building+Projects+Everyday+🚀" />
-
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Learning+C%2B%2B+%7C+DSA;Frontend+Web+Developer;React+Learner;Building+Projects+Every+Day" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech CSE Student
-
-💻 Learning **C++, DSA, HTML, CSS, JavaScript & React**
-
-🔥 Building Real World Projects
-
-🎯 Goal: Become a Software Developer
-
-📍 West Champaran, Bihar, India
+- 🎓 B.Tech CSE Student
+- 💻 Learning **C++, DSA, HTML, CSS, JavaScript & React**
+- 🚀 Building Real-World Projects
+- 🎯 Goal: Become a Software Developer
+- 📍 West Champaran, Bihar, India
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,github,vscode"/>
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" />
+</a>
 
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" />
+</a>
 
----
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" />
+</a>
 
-# 📊 GitHub Stats
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" />
+</a>
 
-<p align="center">
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsprakash-web&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsprakash-web&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=itsprakash-web&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
 
 <a href="https://github.com/itsprakash-web">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/itsprakashdev/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/ItsPrakash-DevCSE/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/itsprakashdev">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" />
 </a>
 
 </p>
 
 ---
 
-<div align="center">
-
-## ⚡ Build • Code • Create ⚡
-
-⭐ Thanks for visiting my profile ⭐
-
-</div>
+## 📈 GitHub Profile Summary
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,github,vscode"/>
-
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- C++
-- Data Structures & Algorithms
-- HTML5
-- CSS3
-- JavaScript
-- React
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsprakash-web&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsprakash-web&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsprakash-web&theme=tokyonight"/>
 
 </p>
 
@@ -140,16 +82,35 @@
 
 ---
 
-## 📫 Connect With Me
+## 📚 Currently Learning
+
+- C++
+- Data Structures & Algorithms
+- HTML5
+- CSS3
+- JavaScript
+- React
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/itsprakash-web">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/itsprakashdev/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ItsPrakash-DevCSE/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/itsprakashdev">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 </p>
@@ -158,10 +119,8 @@
 
 <div align="center">
 
-## 🚀 Motto
+## 🚀 Build • Code • Learn • Create
 
-### **Build • Code • Create**
-
-⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my GitHub profile ⭐
 
 </div>
